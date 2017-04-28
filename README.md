@@ -11,8 +11,8 @@ of position and orientation tracking in the HTC Vive virtual reality
 system for scientific research. i-Perception.
 
 This repository is available from www.github.com/dcnieho/ViveTestCodeData
-What's in the repository:
 
+What's in the repository:
 * acquisition: python/Vizard 5.6 scripts for recording data. Contains:
     * testTracking - acquire data upon trigger pull, used for capturing data along grid 
     * testTrackingOcclusion - acquire data after intervening track loss. Used for recovery tests
