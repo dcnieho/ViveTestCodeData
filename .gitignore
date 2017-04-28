@@ -1,0 +1,9 @@
+*.asv
+.DS*
+~*.m
+*.swp
+*.bak
+*.png
+*.pyc
+/results
+isense.log
