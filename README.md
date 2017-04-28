@@ -10,7 +10,7 @@ Niehorster, D.C., Li, L. & Lappe, M. (2017). The accuracy and precision
 of position and orientation tracking in the HTC Vive virtual reality
 system for scientific research. i-Perception.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.569884.svg)](https://doi.org/10.5281/zenodo.569884)  
+[![DOI](https://zenodo.org/badge/89741881.svg)](https://zenodo.org/badge/latestdoi/89741881)  
 This repository is available from www.github.com/dcnieho/ViveTestCodeData
 
 What's in the repository:
