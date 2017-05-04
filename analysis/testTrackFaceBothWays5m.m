@@ -24,7 +24,7 @@ switch 3
         data = reshape(cat(1,data{:}),size(data,1),size(data,2),[]);
         data(35,:,:) = []; % unneeded extra measurement
         clim = [1.52 1.57];
-    case 4
+    case 3
         load('..\data\figure 12ab+13ab\20161223190526.mat');
         resultDir    = '..\results\Figure 13';
         faceDoor     = 24:46;
